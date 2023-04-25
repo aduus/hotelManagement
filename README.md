@@ -6,7 +6,7 @@
 
 2) Ravindar Reddy (016002753)
 
-3) Preethi Billa (015920411)
+3) Snegdha (015899117)
 
 4) Mounica Reddy (016021902)
 
@@ -26,11 +26,11 @@
 
 # Task Allocations:
 
- * FrontEnd : Shreyansh, Mounica, Preethi
+ * FrontEnd : Shreyansh, Mounica, Snegdha
  * Backend : Ravindar
  * Integration of Backend and Frontend : Shreyansh, Ravindar
- * Deployment : Shreyansh , Ravindar, Mounica, Preethi
- * Documentation : Mounica, Preethi, Shreyansh, Ravindar
+ * Deployment : Shreyansh , Ravindar, Mounica, Snegdha
+ * Documentation : Mounica, Snegdha, Shreyansh, Ravindar
 
 # XP Core Values:
 
